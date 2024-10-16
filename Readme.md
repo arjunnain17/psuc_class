@@ -1,3 +1,3 @@
-#Lab Assignment 2
+Lab Assignment 2
 
 
